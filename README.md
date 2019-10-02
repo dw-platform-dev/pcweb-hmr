@@ -24,6 +24,7 @@ Updating/The Development Cycle
 ####절대 ***develop*** branch에 직접 커밋하지 않습니다.
 
 항상 개발 브랜치에서 시작하시기바랍니다.
+	
 	git checkout develop
 	git checkout -b feature/{branch}
 
