@@ -3,10 +3,9 @@ pcweb-hmr
 [더반찬 PC](www.thebanchan.co.kr)
 
 
-The Git Flow
+[The Git Flow](http://cms.esolution.com/?p=1343)
 ==================
 
-- [GitHub-flow](http://cms.esolution.com/?p=1343)
 * Create a branch
 * Add commits
 * Open a Pull Request
